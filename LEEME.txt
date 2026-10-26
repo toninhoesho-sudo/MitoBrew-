@@ -1,0 +1,10 @@
+MITOBREW — INSTALACIÓN EN ANDROID
+1. Extrae este ZIP en tu móvil.
+2. En GitHub abre el repositorio mitobrew.
+3. Pulsa Add file > Upload files y sube los cinco archivos: index.html, manifest.json, sw.js, icon-192.png e icon-512.png.
+4. Pulsa Commit changes.
+5. Abre Settings > Pages. En Build and deployment elige Deploy from a branch.
+6. Branch: main; folder: /(root). Pulsa Save.
+7. Espera a que GitHub Pages publique la web. La dirección será https://TU-USUARIO.github.io/mitobrew/
+8. Abre esa dirección en Chrome Android > menú ⋮ > Instalar aplicación o Añadir a pantalla de inicio.
+Los datos se guardan en el navegador de ese móvil. Exporta CSV para tener una copia de seguridad.
